@@ -36,3 +36,30 @@ cd projeAdi
 	
 	dotnet run
 ```
+
+## Kullanım
+
+Uygulama çalıştırıldığında, aşağıdaki seçeneklerden birini seçerek işlemlerinizi gerçekleştirebilirsiniz:
+
+### Öğrenci Ekleme
+
+1. Öğrenci adını girin.
+2. Öğrenci soyadını girin.
+
+### Öğretim Görevlisi Ekleme
+
+1. Öğretmen adını girin.
+2. Öğretmen soyadını girin.
+
+### Ders Ekleme
+
+1. Ders adını girin.
+2. Ders kredisi girin.
+3. Öğretmen ID'sini girin.
+4. Öğrenci ID'lerini virgülle ayırarak girin.
+
+### Listeleme
+
+Seçilen kategoriye göre (öğrenci, öğretmen, ders) mevcut kayıtları görüntüleyebilirsiniz.
+
+
